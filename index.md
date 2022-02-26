@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 4lch4 Industries, LLC
 
-You can use the [editor on GitHub](https://github.com/4lch4-Industries/Homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+4lch4 Industries, LLC. is my ([4lch4][0]) company that I created when I was a freelance developer. It was initially called HassleFree Solutions, LLC. but I changed it about a year after to 4lch4 Industries, LLC. The only real reason behind the name change was I wanted a company that had my primary alias in it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Purpose
 
-### Markdown
+Since I got a full-time position as a Software Engineer/Operations Engineer at [J.B. Hunt Transportation][1] I no longer do freelance work. Instead, the company is now used for publishing various Open Source projects. If the project is something that could potentially be used by more folks than a simple library, I publish it under the 4lch4 Industries name.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
+If you wish to speak to me about any sort of business opportunity or if you just have questions, don't hesitate to reach out using the following points of contact:
 
-# Header 1
-## Header 2
-### Header 3
+- E-Mail: [hey@4lch4.email][3]
+- Discord - [https://discord.4lch4.dev/][2]
+- Twitter - [@4lch4][4]
+- LinkedIn - [devin-leaman-49622429][5]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4lch4-Industries/Homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[0]: https://4lch4.com
+[1]: https://www.jbhunt.com/
+[2]: https://discord.4lch4.dev/
+[3]: mailto:hey@4lch4.email
+[4]: https://twitter.com/4lch4
+[5]: https://www.linkedin.com/in/devin-leaman-49622429/
