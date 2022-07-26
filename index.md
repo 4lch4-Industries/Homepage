@@ -1,6 +1,6 @@
 # 4lch4 Industries, LLC
 
-4lch4 Industries, LLC. is my ([4lch4][0]) company that I created when I was a freelance developer. It was initially called HassleFree Solutions, LLC. but I changed it about a year after to 4lch4 Industries, LLC. The only real reason behind the name change was I wanted a company that had my primary alias in it.
+4lch4 Industries, LLC. is my ([4lch4][0]) company that I created when I started as freelance developer. It was initially called HassleFree Solutions, LLC. but I changed it about a year after to 4lch4 Industries, LLC. The only real reason behind the name change was I wanted a company that had my primary alias in it.
 
 ## Purpose
 
